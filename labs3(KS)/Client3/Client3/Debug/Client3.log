@@ -1,0 +1,14 @@
+﻿  Client3.cpp
+D:\2 courses\3 сем\KS\labs3(KS)\Client3\Client3\Client3.cpp(248,20): warning C4018: <: несоответствие типов со знаком и без знака
+D:\2 courses\3 сем\KS\labs3(KS)\Client3\Client3\Client3.cpp(799,34): warning C4101: name: неиспользованная локальная переменная
+D:\2 courses\3 сем\KS\labs3(KS)\Client3\Client3\Client3.cpp(799,46): warning C4101: surname: неиспользованная локальная переменная
+D:\2 courses\3 сем\KS\labs3(KS)\Client3\Client3\Client3.cpp(799,22): warning C4101: pass: неиспользованная локальная переменная
+D:\2 courses\3 сем\KS\labs3(KS)\Client3\Client3\Client3.cpp(799,9): warning C4101: login: неиспользованная локальная переменная
+D:\2 courses\3 сем\KS\labs3(KS)\Client3\Client3\Client3.cpp(905,38): warning C4018: >: несоответствие типов со знаком и без знака
+D:\2 courses\3 сем\KS\labs3(KS)\Client3\Client3\Client3.cpp(929,23): warning C4018: <: несоответствие типов со знаком и без знака
+D:\2 courses\3 сем\KS\labs3(KS)\Client3\Client3\Client3.cpp(1073,52): warning C4018: >=: несоответствие типов со знаком и без знака
+D:\2 courses\3 сем\KS\labs3(KS)\Client3\Client3\Client3.cpp(1107,51): warning C4018: >=: несоответствие типов со знаком и без знака
+D:\2 courses\3 сем\KS\labs3(KS)\Client3\Client3\Client3.cpp(1129,51): warning C4018: >=: несоответствие типов со знаком и без знака
+D:\2 courses\3 сем\KS\labs3(KS)\Client3\Client3\Client3.cpp(1151,51): warning C4018: >=: несоответствие типов со знаком и без знака
+D:\2 courses\3 сем\KS\labs3(KS)\Client3\Client3\Client3.cpp(1173,19): warning C4018: >=: несоответствие типов со знаком и без знака
+  Client3.vcxproj -> D:\2 courses\3 сем\KS\labs3(KS)\Client3\Debug\Client3.exe

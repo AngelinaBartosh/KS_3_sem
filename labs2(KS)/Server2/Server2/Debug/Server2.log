@@ -1,0 +1,3 @@
+﻿  Source.cpp
+D:\2 courses\KS\labs2(KS)\Server2\Server2\Source.cpp(13,1): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+  Server2.vcxproj -> D:\2 courses\KS\labs2(KS)\Server2\Debug\Server2.exe
